@@ -1,0 +1,30 @@
+[project]
+name = "async-web-crawler"
+version = "0.1.0"
+description = "A high-performance asynchronous web crawler that extracts structured data from websites"
+readme = "README.md"
+requires-python = ">=3.13"
+authors = [
+    {name = "Your Name", email = "your.email@example.com"},
+]
+keywords = ["web-crawler", "async", "scraping", "python", "aiohttp"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: Internet :: WWW/HTTP",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+]
+dependencies = [
+    "aiohttp==3.12.12",
+    "beautifulsoup4==4.13.4",
+    "requests==2.32.4",
+]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+py-modules = ["crawl", "csv_report", "main", "test_crawl"]
