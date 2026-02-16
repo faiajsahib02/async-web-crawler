@@ -140,7 +140,7 @@ MIT License - see LICENSE file for details
 
 ## 👨‍💻 Author
 
-Sahib Singh - [faiajsahib02@gmail.com](mailto:faiajsahib02@gmail.com)
+Faiaj Sahib - [faiajsahib02@gmail.com](mailto:faiajsahib02@gmail.com)
 
 ---
 
