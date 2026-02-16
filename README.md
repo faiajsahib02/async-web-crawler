@@ -140,7 +140,7 @@ MIT License - see LICENSE file for details
 
 ## 👨‍💻 Author
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Sahib Singh - [faiajsahib02@gmail.com](mailto:faiajsahib02@gmail.com)
 
 ---
 
